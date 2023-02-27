@@ -1,0 +1,1 @@
+# device_Oukitel_RT2_MT8788-
