@@ -8,8 +8,8 @@
 
 set -e
 
-DEVICE=RT2
-VENDOR=wheatek
+DEVICE=rt2
+VENDOR=oukitel
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"
