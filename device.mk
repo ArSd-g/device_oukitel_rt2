@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/wheatek/RT2
+LOCAL_PATH := device/oukitel/rt2
