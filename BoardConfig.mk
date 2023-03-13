@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/wheatek/RT2
+DEVICE_PATH := device/oukitel/rt2
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
